@@ -81,8 +81,8 @@ cd powerrag-docs
 
 We welcome contributions through Pull Requests or Issues for documentation updates, corrections, or new sections.
 
-* For PowerRAG Community Edition related content, please update files under `00.PowerRAG Community Edition User Guide/（00.PowerRAG 社区版用户指南）`
-* For Langfuse related content, please update files under `10.Langfuse User Guide/（10.Langfuse 用户指南）`
+* For PowerRAG Community Edition related content, please update files under `00.PowerRAG Community Edition User Guide/`
+* For Langfuse related content, please update files under `10.Langfuse User Guide/`
 
 ## License
 
