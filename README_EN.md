@@ -47,24 +47,24 @@ en-US/
     ├── 30.Prompt Management/
     │   ├── 00.Overview.md
     │   ├── 10.Quick start.md
-    │   ├── 20.Prompt data model.md
-    │   └── 30.Core features/
+    │   ├── 20.Prompts data model.md
+    │   └── 30.Core Features/
     │       ├── 00.Version control.md
     │       ├── 10.Composability.md
     │       ├── 20.Message placeholders.md
     │       └── 30.Playground.md
-    └── 40.Application Evaluation/
+    └── 40.Evaluation/
         ├── 00.Overview.md
-        ├── 10.Evaluation Methods/
+        ├── 10.Evaluation methods/
         │   ├── 00.LLM-as-a-Judge.md
-        │   └── 10.Scoring data model.md
-        ├── 20.Benchmarking/
-        │   ├── 00.Benchmarking overview.md
-        │   ├── 10.Dataset.md
-        │   ├── 20.Benchmarking via SDK.md
-        │   ├── 30.Benchmarking via console.md
-        │   └── 40.Benchmarking data model.md
-        └── 30.Configure LLM connection.md
+        │   └── 10.Scores data model.md
+        ├── 20.Experiments/
+        │   ├── 00.Overview.md
+        │   ├── 10.Datasets.md
+        │   ├── 20.Experiments via SDK.md
+        │   ├── 30.Experiments via UI.md
+        │   └── 40.Experiments data model.md
+        └── 30.Configure an LLM connection.md
 ```
 
 
