@@ -18,8 +18,55 @@ Langfuse is an independent sub-project within the PowerRAG Community Edition eco
 
 Langfuse provides model observability, prompt management, and evaluation capabilities, helping users build monitorable and tunable LLM application systems.
 
+## Documentation Structure
 
-> **Note:** Currently, the documentation in this repository is primarily available in Chinese. Please refer to the Chinese documentation files in the repository for detailed information. We are working on providing comprehensive English translations and will update this repository as they become available.
+```plain
+en-US/
+├── 00.PowerRAG Community Edition User Guide/
+│   ├── 00.PowerRAG community edition overview.md
+│   ├── 10.New chunking methods.md
+│   └── 20.Structured information extraction.md
+└── 10.Langfuse User Guide/
+    ├── 00.Langfuse overview.md
+    ├── 10.Deployment and Initialization/
+    │   ├── 00.Overview.md
+    │   ├── 10.Deploy Langfuse service.md
+    │   ├── 20.Access Langfuse and create API key.md
+    │   └── 30.Deploy Bridge service.md
+    ├── 20.Application Observability/
+    │   ├── 00.Overview.md
+    │   ├── 10.Quick start.md
+    │   ├── 20.Observability data model.md
+    │   └── 30.Core Features/
+    │       ├── 00.Sessions.md
+    │       ├── 10.User tracking.md
+    │       ├── 20.Environments.md
+    │       ├── 30.Tags.md
+    │       ├── 40.Metadata.md
+    │       └── 50.Trace ID and distributed tracing.md
+    ├── 30.Prompt Management/
+    │   ├── 00.Overview.md
+    │   ├── 10.Quick start.md
+    │   ├── 20.Prompt data model.md
+    │   └── 30.Core features/
+    │       ├── 00.Version control.md
+    │       ├── 10.Composability.md
+    │       ├── 20.Message placeholders.md
+    │       └── 30.Playground.md
+    └── 40.Application Evaluation/
+        ├── 00.Overview.md
+        ├── 10.Evaluation Methods/
+        │   ├── 00.LLM-as-a-Judge.md
+        │   └── 10.Scoring data model.md
+        ├── 20.Benchmarking/
+        │   ├── 00.Benchmarking overview.md
+        │   ├── 10.Dataset.md
+        │   ├── 20.Benchmarking via SDK.md
+        │   ├── 30.Benchmarking via console.md
+        │   └── 40.Benchmarking data model.md
+        └── 30.Configure LLM connection.md
+```
+
 
 ## How to Use the Documentation
 
